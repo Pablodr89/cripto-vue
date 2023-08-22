@@ -4,4 +4,4 @@ Cuarto proyecto del curso de vue, este es el primer proyecto que consume una API
 
 ## Para ver la web haga click en la siguiente URL:
 
-
+https://eclectic-cuchufli-bc7e38.netlify.app
